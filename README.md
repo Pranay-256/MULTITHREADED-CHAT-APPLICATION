@@ -24,5 +24,15 @@ A key feature of the application is the broadcast mechanism. When a client sends
 
 From the client side, a secondary thread is created specifically to listen for messages from the server, ensuring that incoming messages can be received asynchronously while the main thread remains free to capture user input. This dual-threaded approach on the client side enhances responsiveness and user experience by preventing input/output blocking.
 
+#OUTPUT:
+
+<img width="688" height="345" alt="Image" src="https://github.com/user-attachments/assets/d5e7665d-4534-4240-8ccf-f7c678b6f7c9" />
+
+<img width="695" height="326" alt="Image" src="https://github.com/user-attachments/assets/f752bc3d-6dc2-4e7c-afeb-8b3d3820a0d2" />
+
+<img width="674" height="292" alt="Image" src="https://github.com/user-attachments/assets/fe6d9a13-d3b1-4737-a09b-065e224df5d9" />
+
+
+
 
 
