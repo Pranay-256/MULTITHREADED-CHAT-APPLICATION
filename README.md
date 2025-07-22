@@ -30,7 +30,7 @@ From the client side, a secondary thread is created specifically to listen for m
 
 <img width="695" height="326" alt="Image" src="https://github.com/user-attachments/assets/f752bc3d-6dc2-4e7c-afeb-8b3d3820a0d2" />
 
-<img width="674" height="292" alt="Image" src="https://github.com/user-attachments/assets/fe6d9a13-d3b1-4737-a09b-065e224df5d9" />
+<img width="674" height="292" alt="Image" src="https://github.com/user-attachments/assets/6fe24f3c-12b0-4416-b7f6-f71e44c83085" />
 
 
 
